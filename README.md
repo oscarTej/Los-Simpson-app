@@ -41,7 +41,7 @@ El proyecto está organizado siguiendo una estructura **limpia y mantenible**.
 - Gestión de la **conexión con la API** mediante la URL base del proyecto.
 
 ### **Capa data**
-- Acceso a API / datos remotos.
+- Darle forma a la api  / datos remotos.
 - Almacenamiento local con **persistencia temporal** (1 hora).
 - Modelos de red y **mapeadores** hacia el dominio.
 
