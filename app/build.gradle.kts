@@ -12,7 +12,7 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.jmperezra.bluey"
+        applicationId = "com.example.los_simpson_app"
         minSdk = 28
         targetSdk = 36
         versionCode = 1
