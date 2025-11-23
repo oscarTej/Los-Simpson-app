@@ -4,4 +4,5 @@ import org.koin.dsl.module
 
 val coreModule = module {
     includes(providerModule)
+    includes(remoteModule)
 }
